@@ -3,7 +3,7 @@ This is still under development but will work majoritively
 This Only works on roblox client and not roblox windows store edition
 
 Step one: Join your desired game
-Step two: Launch your executor (only Synapse X, Krnl, Fluxus and a few others)
+<br>Step two: Launch your executor (only Synapse X, Krnl, Fluxus and a few others)
 Step three: Inject your executor
 Step four: Run Roblox Byfron Application
 Step five: Run your Script
