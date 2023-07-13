@@ -8,5 +8,5 @@ Step one: Join your desired game
 <br> Step four: Run Roblox Byfron Application
 <br> Step five: Run your Script
 
-Please Expect Bugs and Errors as It is still In Version 1.0
+Please Expect Bugs and Errors as It is still under development.
 
