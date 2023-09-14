@@ -10,3 +10,4 @@ Step one: Join your desired game
 
 Please Expect Bugs and Errors as It is still under development.
 
+Make sure You are looking at the [Latest Release](https://github.com/DarksideDev-Roblox/Byfron-Bypass/releases/tag/ByfronV1.3 "Latest Release")
