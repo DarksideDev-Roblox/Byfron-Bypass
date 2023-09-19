@@ -11,4 +11,4 @@ Step one: Join your desired game
 Please Expect Bugs and Errors as It is still under development.
 
 Make sure You are looking at the [Latest Release](https://github.com/DarksideDev-Roblox/Byfron-Bypass/releases/tag/ByfronV1.3 "Latest Release")
-If the latest release is having issues, you can use the [Maintained Previous Version](https://github.com/DarksideDev-Roblox/Byfron-Bypass/archive/refs/heads/main.zip "Maintained Previous Version")
+<br>If the latest release is having issues, you can use the [Maintained Previous Version](https://github.com/DarksideDev-Roblox/Byfron-Bypass/archive/refs/heads/main.zip "Maintained Previous Version")
